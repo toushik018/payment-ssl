@@ -1,0 +1,48 @@
+[
+  {
+      "id": 1,
+      "title": "Web Development Course",
+      "description": "Learn the essential skills to become a proficient web developer and build modern, responsive websites and web applications.",
+      "price": 299,
+      "duration": "12 weeks",
+      "instructor": "Tony",
+      "projects": true,
+      "certificate": true,
+      "image": "https://i.ibb.co/Jyg52QZ/people-gf2e40fa89-1280.jpg"
+  },
+  {
+      "id": 2,
+      "title": "Python Programming",
+      "description": "Master the fundamentals of Python programming and gain the skills to develop applications, automate tasks, and work with data.",
+      "price": 249,
+      "duration": "10 weeks",
+      "instructor": "Samantha",
+      "projects": true,
+      "certificate": true,
+      "image": "https://i.ibb.co/Jyg52QZ/people-gf2e40fa89-1280.jpg"
+  },
+  {
+      "id": 3,
+      "title": "Digital Marketing",
+      "description": "Learn the strategies and techniques to create effective digital marketing campaigns, drive online traffic, and boost business growth.",
+      "price": 199,
+      "duration": "8 weeks",
+      "instructor": "Alex",
+      "projects": true,
+      "certificate": true,
+      "image": "https://i.ibb.co/Jyg52QZ/people-gf2e40fa89-1280.jpg"
+  },
+  {
+      "id": 4,
+      "title": "Data Science Fundamentals",
+      "description": "Dive into the world of data science, explore data analysis, visualization, and machine learning concepts for making data-driven decisions.",
+      "price": 349,
+      "duration": "14 weeks",
+      "instructor": "Emily",
+      "projects": true,
+      "certificate": true,
+      "image": "https://i.ibb.co/Jyg52QZ/people-gf2e40fa89-1280.jpg"
+  }
+]
+
+  
