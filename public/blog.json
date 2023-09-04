@@ -1,0 +1,94 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "blog_image": "https://i.ibb.co/sjjKms0/pexels-dominika-roseclay-977737.jpg",
+      "blog_title": "The Art of Time Management",
+      "blog_details": "Discover effective time management techniques to enhance productivity. Learn how to prioritize tasks, set achievable goals, and make the most of your day.",
+      "blog_author": "Emma Johnson",
+      "blog_date": "2023-08-21",
+      "category": "Productivity"
+    },
+    {
+      "id": 2,
+      "blog_image": "https://i.ibb.co/sjjKms0/pexels-dominika-roseclay-977737.jpg",
+      "blog_title": "Exploring Minimalist Lifestyle",
+      "blog_details": "Embrace simplicity and minimalism in your life. Explore the benefits of decluttering, mindful consumption, and focusing on what truly matters.",
+      "blog_author": "Michael Smith",
+      "blog_date": "2023-08-15",
+      "category": "Lifestyle"
+    },
+    {
+      "id": 3,
+      "blog_image": "https://i.ibb.co/sjjKms0/pexels-dominika-roseclay-977737.jpg",
+      "blog_title": "Healthy Eating: A Balanced Approach",
+      "blog_details": "Learn how to maintain a balanced and nutritious diet. Discover the importance of incorporating whole foods, managing portion sizes, and making informed choices.",
+      "blog_author": "Sophia Williams",
+      "blog_date": "2023-08-08",
+      "category": "Health"
+    },
+    {
+      "id": 4,
+      "blog_image": "https://i.ibb.co/sjjKms0/pexels-dominika-roseclay-977737.jpg",
+      "blog_title": "The Power of Positive Thinking",
+      "blog_details": "Harness the power of positive thinking to improve your mental and emotional well-being. Explore techniques to cultivate optimism and resilience.",
+      "blog_author": "David Brown",
+      "blog_date": "2023-08-21",
+      "category": "Writing"
+    },
+    {
+      "id": 5,
+      "blog_image": "https://i.ibb.co/sjjKms0/pexels-dominika-roseclay-977737.jpg",
+      "blog_title": "Exploring Mindfulness Meditation",
+      "blog_details": "Dive into the world of mindfulness meditation and its benefits. Learn how to practice mindfulness, reduce stress, and enhance your overall mindfulness.",
+      "blog_author": "Emily Roberts",
+      "blog_date": "2023-08-15",
+      "category": "Wellness"
+    },
+    {
+      "id": 6,
+      "blog_image": "https://i.ibb.co/sjjKms0/pexels-dominika-roseclay-977737.jpg",
+      "blog_title": "Effective Communication Skills",
+      "blog_details": "Enhance your communication skills for better relationships and professional growth. Learn active listening, empathy, and clear expression.",
+      "blog_author": "John Davis",
+      "blog_date": "2023-08-08",
+      "category": "Writing"
+    },
+    {
+      "id": 7,
+      "blog_image": "https://i.ibb.co/sjjKms0/pexels-dominika-roseclay-977737.jpg",
+      "blog_title": "The World of Astrophotography",
+      "blog_details": "Explore the fascinating world of astrophotography. Learn how to capture stunning images of the night sky, stars, and celestial events.",
+      "blog_author": "Alex Turner",
+      "blog_date": "2023-08-21",
+      "category": "Photography"
+    },
+    {
+      "id": 8,
+      "blog_image": "https://i.ibb.co/sjjKms0/pexels-dominika-roseclay-977737.jpg",
+      "blog_title": "Discovering Remote Work Success",
+      "blog_details": "Navigate the world of remote work with confidence. Learn tips for staying productive, managing virtual teams, and maintaining work-life balance.",
+      "blog_author": "Laura Miller",
+      "blog_date": "2023-08-15",
+      "category": "Career"
+    },
+    {
+      "id": 9,
+      "blog_image": "https://i.ibb.co/sjjKms0/pexels-dominika-roseclay-977737.jpg",
+      "blog_title": "The Art of Creative Writing",
+      "blog_details": "Unlock your creativity and master the art of creative writing. Explore techniques to develop characters, build plots, and craft compelling narratives.",
+      "blog_author": "Ryan Carter",
+      "blog_date": "2023-08-08",
+      "category": "Writing"
+    },
+    {
+      "id": 10,
+      "blog_image": "https://i.ibb.co/sjjKms0/pexels-dominika-roseclay-977737.jpg",
+      "blog_title": "Exploring Sustainable Living",
+      "blog_details": "Embark on a journey towards sustainable living. Discover eco-friendly practices for reducing your carbon footprint and preserving the planet.",
+      "blog_author": "Olivia Green",
+      "blog_date": "2023-08-21",
+      "category": "Writing"
+    }
+  ]
+}

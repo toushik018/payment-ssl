@@ -9,6 +9,11 @@ import {
 import Home from './components/Home/Home.jsx';
 import Main from './components/Layout/Main';
 import Checkout from './components/Home/Checkout';
+import PaymentSuccess from './components/pages/PaymentSuccess';
+import PaymentFail from './components/pages/PaymentFail';
+import AllBlog from './Blog/AllBlog';
+import AddBlogForm from './Blog/AddBlog';
+import BlogDetails from './Blog/BlogDetails';
 
 
 const router = createBrowserRouter([
@@ -23,6 +28,26 @@ const router = createBrowserRouter([
       {
         path: '/checkout/:id',
         element: <Checkout></Checkout>
+      },
+      {
+        path: 'payment/success/:tranId',
+        element: <PaymentSuccess></PaymentSuccess>
+      },
+      {
+        path: 'payment/fail/:tranId',
+        element: <PaymentFail></PaymentFail>
+      },
+      {
+        path:'allBlog',
+        element: <AllBlog></AllBlog>
+      },
+      {
+        path: 'addBlog',
+        element: <AddBlogForm></AddBlogForm>
+      },
+      {
+        path: '/blog/:id',
+        element: <BlogDetails></BlogDetails>
       }
     ]
   },

@@ -11,6 +11,8 @@ const Home = () => {
             .catch(error => console.error('Error fetching data:', error));
     }, []);
 
+    console.log(courseData);
+
     return (
         <div className="bg-gray-100 min-h-screen">
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 p-4">
@@ -22,7 +24,7 @@ const Home = () => {
                         >
                             <div>
                                 <h2 className="text-xl font-semibold mb-2">{course.title}</h2>
-                                <img src={course.image} alt={course.title} className="mb-2 rounded-lg w-full" />
+                                <img src={course.courseThumbnail} alt={course.title} className="mb-2 rounded-lg w-full" />
                                 <p className="text-gray-700 mb-2">{course.description}</p>
                                 {course.instructor && (
                                     <p className="text-gray-600 mb-2">Instructor: {course.instructor}</p>
@@ -30,7 +32,7 @@ const Home = () => {
                             </div>
                             <div className="mt-4">
                                 <div className="flex justify-between items-center">
-                                    <div className="text-lg font-medium text-blue-700">${course.price}</div>
+                                    <div className="text-lg font-medium text-blue-700">${course.coursePrice}</div>
                                     <Link to={`/checkout/${course._id}`} className="bg-blue-600 text-white py-2 px-4 rounded-lg hover:bg-blue-700">
                                         Enroll Now
                                     </Link>
